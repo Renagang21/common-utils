@@ -1,2 +1,2 @@
 # common-utils
-python 유틸리티
+유틸리티 모음
